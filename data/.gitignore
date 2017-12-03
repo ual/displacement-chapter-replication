@@ -1,0 +1,9 @@
+*.zip
+*.csv
+*/*.cpg
+*/*.dbf
+*/*.prj
+*/*.qpj
+*/*.shp
+*/*.shx
+*/*.xml
