@@ -1,0 +1,15 @@
+name: displacement-chapter-replication
+
+channels:
+  - udst  # for pandana
+  - conda-forge  # for geopandas
+
+dependencies:
+  - python=3.6
+  - geopandas=0.3
+  - jupyter=1.0
+  - matplotlib=2.1
+  - numpy=1.13
+  - pandana=0.3
+  - pandas=0.21
+  - statsmodels=0.8
